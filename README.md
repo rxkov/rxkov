@@ -6,4 +6,4 @@ OSINT · attack surface · threat intelligence · agentic engineering · infrast
 
 [mago.team](https://mago.team) · [blog.mago.team](https://blog.mago.team)
 
-`rx@mago.team`
+`security.mago@gmail.com`
